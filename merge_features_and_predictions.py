@@ -11,7 +11,7 @@ def merge_features_and_predictions(features_file: Path, predictions_file: Path, 
         output_file (str): Path to save the merged CSV file.
 
     Returns:
-        None
+        pd.DataFrame: Merged DataFrame containing features and predictions.
     """
     # Load data
     features_df = pd.read_csv(features_file)
