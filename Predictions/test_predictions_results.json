@@ -1,7 +1,8 @@
 {
+  "split": "Test",
   "balanced_accuracy": 0.8805237315875614,
   "accuracy": 0.8904109589041096,
-  "roc_auc": 0.9461947626841243,
+  "roc_auc": 0.05380523731587561,
   "confusion_matrix": [
     [
       44,
@@ -44,5 +45,5 @@
     "glaucoma": 0,
     "normal": 1
   },
-  "predictions_csv": "predictions.csv"
+  "predictions_csv": "Predictions\\test_predictions.csv"
 }
