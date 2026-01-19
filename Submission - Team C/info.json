@@ -1,7 +1,7 @@
 {
   "group_id": "C",
-  "architecture": "custom",
-  "description": "",
+  "architecture": "ResNet34_custom",
+  "description": "Freeze of backbone initially, train small classifier head, then unfreeze for fine-tuning",
   "training_details": {
 
   }
