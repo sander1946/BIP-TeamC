@@ -2,6 +2,26 @@
 
 Short overview of the repository structure and purpose of key files.
 
+# **HOW TO RUN**
+
+to train the model run the following command:
+
+```bash
+python "Submission - Team C\train_example.py"
+```
+
+to validate the trained model run the following command:
+
+```bash
+python "Submission - Team C\validate.py"
+```
+
+to merge the preditions with the features run the following command:
+
+```bash
+python "merge_features_and_predictions.py"
+```
+
 ## Project structure
 
 - BIP-TeamC
