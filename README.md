@@ -6,6 +6,9 @@ Short overview of the repository structure and purpose of key files.
 
 - BIP-TeamC
   - Datasets/
+    - Complete/
+      - Train/ — the complete train dataset, mixed with both normal and Glucoma images
+      - Train/ — the complete test dataset, mixed with both normal and Glucoma images
     - Glaucoma/
       - Train/ — training images for glaucoma class
       - Test/ — test images for glaucoma class
